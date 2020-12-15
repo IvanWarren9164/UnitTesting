@@ -1,0 +1,13 @@
+C:\Users\broly\Documents\School\Grand Circus\Homework\TempConverter\TempConverter\obj\Debug\netcoreapp3.1\TempConverter.csprojAssemblyReference.cache
+C:\Users\broly\Documents\School\Grand Circus\Homework\TempConverter\TempConverter\obj\Debug\netcoreapp3.1\TempConverter.AssemblyInfoInputs.cache
+C:\Users\broly\Documents\School\Grand Circus\Homework\TempConverter\TempConverter\obj\Debug\netcoreapp3.1\TempConverter.AssemblyInfo.cs
+C:\Users\broly\Documents\School\Grand Circus\Homework\TempConverter\TempConverter\obj\Debug\netcoreapp3.1\TempConverter.csproj.CoreCompileInputs.cache
+C:\Users\broly\Documents\School\Grand Circus\Homework\TempConverter\TempConverter\bin\Debug\netcoreapp3.1\TempConverter.exe
+C:\Users\broly\Documents\School\Grand Circus\Homework\TempConverter\TempConverter\bin\Debug\netcoreapp3.1\TempConverter.deps.json
+C:\Users\broly\Documents\School\Grand Circus\Homework\TempConverter\TempConverter\bin\Debug\netcoreapp3.1\TempConverter.runtimeconfig.json
+C:\Users\broly\Documents\School\Grand Circus\Homework\TempConverter\TempConverter\bin\Debug\netcoreapp3.1\TempConverter.runtimeconfig.dev.json
+C:\Users\broly\Documents\School\Grand Circus\Homework\TempConverter\TempConverter\bin\Debug\netcoreapp3.1\TempConverter.dll
+C:\Users\broly\Documents\School\Grand Circus\Homework\TempConverter\TempConverter\bin\Debug\netcoreapp3.1\TempConverter.pdb
+C:\Users\broly\Documents\School\Grand Circus\Homework\TempConverter\TempConverter\obj\Debug\netcoreapp3.1\TempConverter.dll
+C:\Users\broly\Documents\School\Grand Circus\Homework\TempConverter\TempConverter\obj\Debug\netcoreapp3.1\TempConverter.pdb
+C:\Users\broly\Documents\School\Grand Circus\Homework\TempConverter\TempConverter\obj\Debug\netcoreapp3.1\TempConverter.genruntimeconfig.cache
